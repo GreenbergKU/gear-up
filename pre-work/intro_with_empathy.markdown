@@ -1,4 +1,4 @@
-## Gear Up Pre-Work
+## Gear Up Pre-Work: DO NOT EDIT THIS!! 
 ### Turing Culture: Developing Empathetic Programmers
 
 _Our **mission** is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers._
